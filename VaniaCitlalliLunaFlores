@@ -1,0 +1,35 @@
+*1 Metodo Cornell 
+Es una herraienta que nos sirve para realizar apuntres de una manera mas optima y entendible
+tomando en cuenta que tiene 3 puntos claves: Titulo, Preguntas Clave y La linea de captura (Ideas  Principales, Ideas Secundarias y datos o evidencias)
+
+*2 Software 
+Es un programa de computo que resuelve alguna necesidad o problemas 
+
+*3 Ingenieria de Software 
+Todos los requerimientos que necesita el software para su uso como son su Interfas, Programacion o para Guardar informacion 
+
+*4 Proceso de Software 
+Conjunto de actividades que se requieren para crear un software
+
+*5 Modelo de proceso de software
+Pasos del proceso de Software
+-Planificacion. La parte inicial del proceso donde se hace el analisis de los requerimiento haciendo preguntas 
+-Diseñar. La realizacion de diagramas y vocetos del proyecto que se va a realizar
+-Implementar. Cuando ya se llava a cabo el proyecto 
+-Pruebas. La accion de ver como funciona el proyecto 
+-Desplegar. Cuando ya se publica el proyecto 
+-Mantenimiento. Actualizaciones del proyecto ya viendo como funciona y que mejoras podrian tener 
+
+*SCRUM 
+Es una metodologia agil que sirve para el desarrollo de software con enfoque al cliente 
+-Perfil Product Owner. Es el analista del negocio, tiene mas relacion con el cliente ya que a el le corresponde preguntar los 
+requerimiento que van  a llevar acabo
+-Perfil SCRUM Master. Es es el lider del proyecto, llevara a cabo la planificacion de las actividades y el equipo de desarrollo
+-Perfil Develament Team. Es ek equipo de desarrollo que llevara a cabo el trabajo 
+-Day List Reuniones diarias que se llevan a cabo con todo el equipo 
+-Spin. Metas a corto plazo del desarrollo 
+
+*Metodologia de cascada 
+Es un metodo donde se realiza una seria de pasos en un proyecto pero siguen rigurosamente una secuencia ya que no se puede 
+avanzar al siguiente paso sin haber concluido el anterrior.
+
